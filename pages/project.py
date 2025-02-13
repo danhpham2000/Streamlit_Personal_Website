@@ -13,11 +13,45 @@ st.markdown(
 )
 st.markdown("---")
 
+
+st.markdown("---")
+
+# Project: BiteWise
+st.markdown(
+    """
+    <h2 style="color:#FF9800;">BiteWise</h2>
+    <p><strong>Duration:</strong> September 2024 – December 2024</p>
+    <ul style="font-size:16px; line-height:1.8;">
+        <li>🍽️ <strong>Meal Plan Application Development:</strong> Engineered a meal planning platform with a React frontend, NestJS backend, and MySQL database for structured and efficient data storage.</li>
+        <li>⚡ <strong>Performance Optimization:</strong> Improved query response times by 40% through caching mechanisms, ensuring pages loaded within 2 seconds under normal traffic conditions.</li>
+        <li>🔗 <strong>Seamless Frontend-Backend Integration:</strong> Resolved communication inefficiencies, achieving smooth data exchange and responsiveness for 100 concurrent users in stress tests.</li>
+        <li>🔒 <strong>Security Compliance:</strong> Enforced HTTPS, prevented SQL injections, implemented session timeouts, and encrypted sensitive data, ensuring 100% compliance with security and privacy standards.</li>
+    </ul>
+    """, unsafe_allow_html=True
+)
+
+st.markdown(
+    """
+    <h3 style="color:#FF9800;">Technologies Used for BiteWise</h3>
+    <div style="font-size:16px; line-height:1.8;">
+        <ul>
+            <li>🌐 <strong>Frontend:</strong> React, TypeScript</li>
+            <li>🖥️ <strong>Backend:</strong> NestJS</li>
+            <li>📊 <strong>Database:</strong> MySQL</li>
+            <li>☁️ <strong>Cloud Services:</strong> Google Cloud Platform</li>
+            <li>🐳 <strong>Containerization:</strong> Docker</li>
+            <li>🤖 <strong>AI Integration:</strong> OpenAI API</li>
+        </ul>
+    </div>
+    """, unsafe_allow_html=True
+)
+
+
 # Project 1: Mind Learning
 st.markdown(
     """
     <h2 style="color:#FF5722;">Mind Learning (HackTX 2024)</h2>
-    <p><strong>Duration:</strong> November 2024 – Present</p>
+    <p><strong>Duration:</strong> November 2024</p>
     <ul style="font-size:16px; line-height:1.8;">
         <li>🚀 <strong>AI-Powered E-Learning Platform:</strong> Developed a platform that personalizes educational pathways using real-time assessments for tailored learning experiences.</li>
         <li>⚡ <strong>Gemini API Optimization:</strong> Reduced response time from 7 seconds to 2 seconds through schema definition, enhancing interaction speed and platform efficiency.</li>
@@ -48,7 +82,7 @@ st.markdown("---")
 st.markdown(
     """
     <h2 style="color:#FF9800;">Music Buddy (HackUTA 6)</h2>
-    <p><strong>Duration:</strong> October 2024 – Present</p>
+    <p><strong>Duration:</strong> October 2024</p>
     <ul style="font-size:16px; line-height:1.8;">
         <li>🎵 <strong>Music Platform Development:</strong> Architected a music platform with Angular frontend, Hono microservices on Bun runtime, and AWS for scalable cloud infrastructure.</li>
         <li>🔐 <strong>Authentication:</strong> Built secure authentication flows using AWS Cognito and custom microservices, ensuring seamless user experiences.</li>
