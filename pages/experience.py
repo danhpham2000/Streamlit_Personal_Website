@@ -46,18 +46,7 @@ st.write(
 st.markdown("### 🛠️ Technologies Used")
 st.write("⚛️ React, 🎨 ShadCN, 💅 Tailwind CSS, 🐍 Python, ⚡ FastAPI, ☁️ AWS")
 
-# Footer
-st.markdown(
-    """
-    <div style="background-color:#2196F3; padding:10px; border-radius:10px; margin-top:20px;">
-        <p style="color:white; text-align:center; font-size:16px;">
-        🚀 My experience in backend development, security, and user experience has been enriched through diverse projects in fast-paced environments.
-        </p>
-    </div>
-    """, unsafe_allow_html=True
-)
 
-st.markdown("<br></br>", unsafe_allow_html=True)
 
 
 # Life Stages Experience
@@ -84,4 +73,17 @@ st.write(
 st.markdown("### 🛠️ Technologies Used")
 st.write("⚛️ React Native, 📊 Node.js, 🚀 Express.js, 🔥 Firebase")
 
+
+# Footer
+st.markdown(
+    """
+    <div style="background-color:#2196F3; padding:10px; border-radius:10px; margin-top:20px;">
+        <p style="color:white; text-align:center; font-size:16px;">
+        🚀 My experience in backend development, security, and user experience has been enriched through diverse projects in fast-paced environments.
+        </p>
+    </div>
+    """, unsafe_allow_html=True
+)
+
+st.markdown("<br></br>", unsafe_allow_html=True)
 
