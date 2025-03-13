@@ -71,7 +71,7 @@ st.write(
 
 
 st.markdown("### 🛠️ Technologies Used")
-st.write("⚛️ React Native, 📊 Node.js, 🚀 Express.js, 🔥 Firebase")
+st.write("⚛️ React Native, 📊 Node.js, 🚀 Express.js, 🔥 Firebase, ☁️ Google Cloud Platform")
 
 
 # Footer
