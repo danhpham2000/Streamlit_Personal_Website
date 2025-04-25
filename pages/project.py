@@ -16,6 +16,65 @@ st.markdown("---")
 
 st.markdown("---")
 
+
+
+# Project 4: NeuroPath
+st.markdown(
+    """
+    <h2 style="color:#3F51B5;">NeuroPath</h2>
+    <p><strong>Duration:</strong> April 2025 – Present</p>
+    <ul style="font-size:16px; line-height:1.8;">
+        <li>🧠 <strong>AI-Powered Learning Platform:</strong> Built an AI-native platform using RAG systems to generate personalized quizzes, study plans, and proctored exams from uploaded student documents.</li>
+        <li>📄 <strong>Document Intelligence:</strong> Leveraged LangChain and Chroma to enable context-aware learning through intelligent document parsing.</li>
+        <li>⚙️ <strong>Modular Architecture:</strong> Integrated Streamlit and FastAPI for seamless backend orchestration and dynamic UI rendering.</li>
+    </ul>
+    <a href="https://github.com/danhpham2000/NeuroPath" style="color:#3F51B5; font-size:16px;" target="_blank">🔗 View Project</a>
+    """, unsafe_allow_html=True
+)
+
+st.markdown(
+    """
+    <h3 style="color:#3F51B5;">Technologies Used for NeuroPath</h3>
+    <div style="font-size:16px; line-height:1.8;">
+        <ul>
+            <li>🌐 <strong>Frontend:</strong> React, Streamlit</li>
+            <li>🖥️ <strong>Backend:</strong> FastAPI</li>
+            <li>📊 <strong>Database:</strong> Supabase, Chroma</li>
+            <li>🧠 <strong>AI/NLP:</strong> LangChain, Python</li>
+        </ul>
+    </div>
+    """, unsafe_allow_html=True
+)
+
+# Project 5: WorkChatAI
+st.markdown(
+    """
+    <h2 style="color:#009688;">WorkChatAI</h2>
+    <p><strong>Duration:</strong> March 2025</p>
+    <ul style="font-size:16px; line-height:1.8;">
+        <li>💬 <strong>Collaborative AI Workspace:</strong> Developed a real-time chat interface integrated with collaborative workspace functionalities.</li>
+        <li>🤖 <strong>AI Integration:</strong> Leveraged OpenAI LLM for intelligent content generation tailored to work sessions.</li>
+        <li>🧩 <strong>Socket-Based Communication:</strong> Enabled seamless real-time collaboration using Socket.IO and Flask backend architecture.</li>
+    </ul>
+    <a href="https://github.com/danhpham2000/WorkChatAI" style="color:#3F51B5; font-size:16px;" target="_blank">🔗 View Project</a>
+    """, unsafe_allow_html=True
+)
+
+st.markdown(
+    """
+    <h3 style="color:#009688;">Technologies Used for WorkChatAI</h3>
+    <div style="font-size:16px; line-height:1.8;">
+        <ul>
+            <li>🌐 <strong>Frontend:</strong> React, TypeScript</li>
+            <li>🖥️ <strong>Backend:</strong> Flask, Python</li>
+            <li>📡 <strong>Real-time:</strong> Socket.IO</li>
+            <li>🤖 <strong>AI:</strong> OpenAI LLM, LangChain</li>
+            <li>📊 <strong>Database:</strong> PostgreSQL</li>
+        </ul>
+    </div>
+    """, unsafe_allow_html=True
+)
+
 # Project: BiteWise
 st.markdown(
     """
